@@ -16,6 +16,6 @@ Isso é um README
 
 [Link para o Google](https:/www.google.com)
 
-![Link da imagem](image.png)
+![Link da imagem](https://git-scm.com/images/logo@2x.png)
 
 
