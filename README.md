@@ -19,3 +19,4 @@ Isso é um README
 ![Link da imagem](https://git-scm.com/images/logo@2x.png)
 
 
+##Adiciondo Arquivo terraform.
